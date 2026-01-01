@@ -28,7 +28,7 @@ This project is a Power BI dashboard designed to analyze supermarket sales data 
 - Data Visualization & Analytics
 
 ## Dataset Used
-- https://raw.githubusercontent.com/username/Supermarket-Sales-Dashboard/main/supermarket_sales.csv
+- <a https://raw.githubusercontent.com/InduEdiga/PowerBI-Dashboard/refs/heads/main/powerbi_dashboard.png
 The dataset contains supermarket transaction details including:
 - City
 - Product Line
