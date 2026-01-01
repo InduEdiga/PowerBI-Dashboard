@@ -28,7 +28,7 @@ This project is a Power BI dashboard designed to analyze supermarket sales data 
 - Data Visualization & Analytics
 
 ## Dataset Used
-- https://raw.githubusercontentcom/InduEdiga/PowerBI-Dashboard/main/Realmart_Sales_Dataset.xlsx
+- https://raw.githubusercontent.com/InduEdiga/PowerBI-Dashboard/main/Realmart_Sales_Dataset.xlsx
 - The dataset contains supermarket transaction details including:
 - City
 - Product Line
